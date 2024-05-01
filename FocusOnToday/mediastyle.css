@@ -36,6 +36,14 @@
         padding-left: 20%;
     }
 
+    .alert{
+        font-size: 0.7rem;
+    }
+
+    .inputField{
+        margin-top: 2rem;
+    }
+
     .inputTitle{
         font-size: 0.7rem;
     }
