@@ -49,6 +49,14 @@ body{
     padding-left: 10%;
 }
 
+.alert{
+    color: #FF5151;
+}
+
+.inputField{
+    margin-top: 4rem;
+}
+
 .input{
     display: flex;
     margin: 2.5rem 0rem;
