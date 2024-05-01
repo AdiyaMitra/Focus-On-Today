@@ -1,0 +1,62 @@
+body{
+    background-color: #ccffa1c7;
+    font-family: "Poppins", sans-serif;
+}
+
+.title{
+    font-size: 4rem;
+    color: #48A300;
+    text-align: center;
+}
+
+.title span{
+    color: #61481C;
+}
+
+.main{
+    background-color: #FBFBFB;
+    max-width: 41.25rem;
+    margin-inline: auto;
+    border-radius: 0.938rem;
+    padding: 2rem 2.625rem;
+    box-shadow: 0 0 0.625rem 0.313rem rgba(0, 0, 0, 0.1);
+}
+
+.subtitle{
+    display: flex;
+}
+
+.subtitle img{
+    margin: 0  1.25rem;
+}
+
+.progressBar{
+    height: 2rem;
+    background-color: #ccffa1c7;
+    border-radius: 1rem;
+}
+
+.progressBarStatus{
+    height: 100%;
+    width: 30%;
+    background-color: #48A300;
+    border-radius: 1rem;
+}
+
+.progressBarStatus p{
+    font-size: 60%;
+    padding-top: 4.5%;
+    padding-left: 10%;
+}
+
+.input{
+    display: flex;
+    margin: 2.5rem 0rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 0.1rem 0.1rem rgba(0, 0, 0, 0.1);;
+}
+
+.radioBtn{
+    margin: 0rem 2rem;
+}
+

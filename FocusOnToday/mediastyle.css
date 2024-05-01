@@ -1,0 +1,81 @@
+@media(max-width: 780px){
+    .title{
+        font-size: 2rem;
+
+    }
+
+    .main{
+        padding: 1rem 2rem;
+    }
+}
+
+@media(max-width: 610px){
+    .progressBarStatus p{
+        padding-top: 5.5%;
+        padding-left: 20%;
+    }
+}
+
+@media(max-width: 410px){
+    .progressTitle{
+        font-size: 0.5rem;
+    }
+
+    .progressBar{
+        height: 1.2rem;
+        border-radius: 0.6rem;
+    }
+    
+    .progressBarStatus{
+        border-radius: 0.6rem;
+    }
+
+    .progressBarStatus p{
+        font-size: 50%;
+        padding-top: 3.5%;
+        padding-left: 20%;
+    }
+
+    .inputTitle{
+        font-size: 0.7rem;
+    }
+}
+
+@media(max-width: 350px){
+    .progressBarStatus p{
+        font-size: 40%;
+        padding-top: 6.5%;
+    }
+}
+
+@media(max-width: 300px){
+    .title{
+        font-size: 1.5rem;
+    }
+
+    .main{
+        padding: 0.5rem 1rem;
+    }
+
+    .subtitle h2{
+        font-size: 1rem;
+    }
+
+    .subtitle img{
+        height: 2rem;
+        margin-top: 4%;
+    }
+
+    .progressBar{
+        height: 1rem;
+        border-radius: 0.5rem;
+    }
+    
+    .progressBarStatus{
+        border-radius: 0.5rem;
+    }
+
+    .progressBarStatus p{
+        padding-top: 3.5%;
+    }
+}
